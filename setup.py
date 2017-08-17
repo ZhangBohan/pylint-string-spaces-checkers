@@ -12,9 +12,6 @@ setup(
     install_requires=[
         'pylint',
     ],
-    packages=[
-        '',
-    ],
     classifiers=[
         'Intended Audience :: Developers',
         'Environment :: Console',

@@ -1,4 +1,4 @@
-# Pylint String Checkers
+# Pylint String Spaces Checkers
 
 Additional string checkers for [Pylint](https://pylint.org).
 
