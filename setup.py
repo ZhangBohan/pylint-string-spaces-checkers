@@ -7,7 +7,7 @@ setup(
     long_description=open('README.md').read(),
     author='ZhangBohan',
     author_email='me@bohanzhang.com',
-    version='0.2',
+    version='0.2.1',
     download_url='https://github.com/ZhangBohan/pylint-string-spaces-checkers.git',
     install_requires=[
         'pylint',
