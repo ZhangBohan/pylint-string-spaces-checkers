@@ -15,7 +15,7 @@ class StringConstantSpacesChecker(BaseTokenChecker):
     __implements__ = ITokenChecker
 
     name = 'string_concatenation_spaces'
-    msgs = {'C8404': ('Prefer string concatenation to string substitution %s',
+    msgs = {'E8404': ('Prefer string concatenation to string substitution %s',
                       'string-concat-spaces',
                       'Used when a string concatenation no operation is found! Sometimes you just missing it.')}
 
