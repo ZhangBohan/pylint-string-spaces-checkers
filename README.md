@@ -2,6 +2,8 @@
 
 Additional string checkers for [Pylint](https://pylint.org).
 
+[![Build Status](https://travis-ci.org/ZhangBohan/pylint-string-spaces-checkers.svg?branch=master)](https://travis-ci.org/ZhangBohan/pylint-string-spaces-checkers)[![PyPI version](https://badge.fury.io/py/pylint-string-spaces-checkers.svg)](https://badge.fury.io/py/pylint-string-spaces-checkers)
+
 ## Install
 
 ```
