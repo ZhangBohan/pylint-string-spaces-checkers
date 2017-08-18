@@ -4,7 +4,7 @@ python:
 - '3.6'
 install:
 - pip install pylint
-script: string_spaces_checkers/__init__.py
+script: python string_spaces_checkers/__init__.py
 deploy:
   provider: pypi
   distributions: sdist bdist_wheel
