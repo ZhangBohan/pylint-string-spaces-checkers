@@ -1,12 +1,10 @@
 language: python
 python:
 - '2.7'
-- '3.4'
-- '3.5'
 - '3.6'
 install:
 - pip install pylint
-script: python string_spaces_checkers.py
+script: string_spaces_checkers/__init__.py
 deploy:
   provider: pypi
   distributions: sdist bdist_wheel
